@@ -41,18 +41,25 @@
 
 ---
 
-### 🌐 Полезные ссылки
+### Ресурсы
 
-`🏠`ㆍ**Сайт проекта:** [lotus-land.net](https://lotus-land.net)
+#### Ссылки:
 
-`💬`ㆍ**Discord:** [discord.gg/lotus](https://discord.gg/lotus)
+`✨`ㆍ[**Статус сервера**](https://s.mcstatus.io/3f85f5c8525c38e8024c2c83)
 
-`🧾`ㆍ**Лаунчер и вход:** [wiki.lotus-land.net/guides/getting-started](https://wiki.lotus-land.net/guides/getting-started)
+`🗺`ㆍ[**Онлайн-карта**](https://map.lotus-land.net)
 
-`🔗`ㆍ**Репозиторий проекта:** [Lotus Network Ltd](https://github.com/Lotus-Network-Ltd)
+`🤝`ㆍ[**Поддержка сервера**](https://shop.lotus-land.net)
+
+#### Соц. сети:
+
+`📱`ㆍ[**Telegram**](https://t.me/LotusMC)
+
+`🎥`ㆍ[**YouTube**](https://www.youtube.com/@LotusNetwork-y9h)
+
+`💬`ㆍ[**Discord**](https://discord.gg/wFUzrZgAeu)
 
 ---
-
 ### 🛠 Технологии
 
 Проект построен с использованием:
