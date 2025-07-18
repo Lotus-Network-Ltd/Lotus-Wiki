@@ -7,35 +7,34 @@
     "light": "#ed95a0",
     "dark": "#ed95a0"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "images-wiki/favicon.svg",
   "navigation": {
     "tabs": [
       {
         "tab": "Wiki",
         "groups": [
           {
-            "group": "Добро пожаловать",
+            "group": "Начало вашей истории",
             "pages": [
-              "index",
-              "rules",
-              "faq"
+              "/start/how",
+              "/start/rules",
+              "/start/faq"
             ]
           },
           {
-            "group": "Гайды",
+            "group": "Информация",
             "pages": [
-              "guides/getting-started",
-              "guides/quests",
-              "guides/economy",
-              "guides/tips"
+              "/info/about",
+              "/info/functions",
+              "/info/mods",
+              "/info/resourcepack",
+              "/info/block-mods-list"
             ]
           },
           {
-            "group": "Разработка",
+            "group": "Поддержка проекта",
             "pages": [
-              "dev/roadmap",
-              "dev/updates",
-              "dev/ideas"
+              "support-project/lotus"
             ]
           }
         ]
@@ -44,31 +43,31 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Магазин",
-          "href": "https://shop.lotus-land.net/",
-          "icon": "globe"
-        },
-        {
           "anchor": "Discord",
           "href": "https://discord.gg/wFUzrZgAeu",
           "icon": "discord"
         },
         {
-          "anchor": "GitHub",
-          "href": "https://github.com/Lotus-Network-Ltd",
-          "icon": "github"
+          "anchor": "Youtube",
+          "href": "https://www.youtube.com/@LotusNetwork-y9h",
+          "icon": "youtube"
+        },
+        {
+          "anchor": "Telegram",
+          "href": "https://t.me/LotusMC",
+          "icon": "telegram"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images-wiki/light.svg",
+    "dark": "/images-wiki/dark.svg"
   },
   "navbar": {
     "links": [
       {
-        "label": "Связаться",
+        "label": "Поддержка",
         "href": "mailto:help.lotus.network@gmail.com"
       }
     ],
@@ -81,8 +80,8 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/wFUzrZgAeu",
-      "github": "https://github.com/Lotus-Network-Ltd",
-      "youtube": "https://www.youtube.com/@LotusNetwork-y9h"
+      "youtube": "https://www.youtube.com/@LotusNetwork-y9h",
+      "telegram": "https://t.me/LotusMC"
     }
   }
 }
