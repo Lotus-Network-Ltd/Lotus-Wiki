@@ -68,7 +68,7 @@
 
 `✏️`ㆍ[Markdown (.md)] для всего контента
 
-`⚙️`ㆍ[Автосборки и обновления](https://github.com/Lotus-Network-Ltd/Lotus-Wiki/actions)
+`⚙️`ㆍ[[Автосборки и обновления]](https://github.com/Lotus-Network-Ltd/Lotus-Wiki/actions)
 
 ---
 
