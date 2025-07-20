@@ -62,7 +62,7 @@
 
 Проект построен с использованием:
 
-`📘`ㆍ[Mintlify Docs](https://mintlify.com/)
+`📘`ㆍ[[Mintlify Docs]](https://mintlify.com/)
 
 `📦`ㆍ[GitHub Pages / CI]
 
