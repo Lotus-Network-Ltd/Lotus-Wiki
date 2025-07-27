@@ -49,8 +49,6 @@
 
 `✨`ㆍ[**Статус сервера(ов)**](https://s.mcstatus.io/3f85f5c8525c38e8024c2c83)
 
-`🗺`ㆍ[**Онлайн-карта**](https://map.lotus-land.net)
-
 #### Соц. сети:
 
 `📱`ㆍ[**Telegram**](https://t.me/LotusMC)
@@ -58,19 +56,6 @@
 `🎥`ㆍ[**YouTube**](https://www.youtube.com/@LotusNetwork-y9h)
 
 `💬`ㆍ[**Discord**](https://discord.gg/wFUzrZgAeu)
-
----
-### 🛠 Технологии
-
-Проект построен с использованием:
-
-`📘`ㆍ[[Mintlify Docs]](https://mintlify.com/)
-
-`📦`ㆍ[GitHub Pages / CI]
-
-`✏️`ㆍ[Markdown (.md)] для всего контента
-
-`⚙️`ㆍ[[Автосборки и обновления]](https://github.com/Lotus-Network-Ltd/Lotus-Wiki/actions)
 
 ---
 
