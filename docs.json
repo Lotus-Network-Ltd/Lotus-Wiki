@@ -73,8 +73,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Магазин",
-      "href": "https://shop.lotus-land.net/"
+      "label": "Онлайн карта",
+      "href": "https://map.lotus-land.net/"
     }
   },
   "footer": {
