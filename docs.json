@@ -27,13 +27,7 @@
           "info/functions",
           "info/mods",
           "info/resourcepack",
-          {
-            "group": "Блоки",
-            "icon": "cube",
-            "pages": [
-              "info/block"
-            ]
-          }
+          "info/block"
         ]
       },
       {
