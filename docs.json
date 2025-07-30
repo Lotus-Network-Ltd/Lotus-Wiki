@@ -9,34 +9,38 @@
   },
   "favicon": "images-wiki/favicon-dark.png",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Wiki",
-        "groups": [
+        "group": "Начало вашей истории",
+        "icon": "book-open",
+        "pages": [
+          "start/how",
+          "start/rules",
+          "start/faq"
+        ]
+      },
+      {
+        "group": "Информация",
+        "icon": "info",
+        "pages": [
+          "info/about",
+          "info/functions",
+          "info/mods",
+          "info/resourcepack",
           {
-            "group": "Начало вашей истории",
+            "group": "Блоки",
+            "icon": "cube",
             "pages": [
-              "/start/how",
-              "/start/rules",
-              "/start/faq"
-            ]
-          },
-          {
-            "group": "Информация",
-            "pages": [
-              "/info/about",
-              "/info/functions",
-              "/info/mods",
-              "/info/resourcepack",
-              "/info/block"
-            ]
-          },
-          {
-            "group": "Поддержка проекта",
-            "pages": [
-              "support-project/lotus"
+              "info/block"
             ]
           }
+        ]
+      },
+      {
+        "group": "Поддержка проекта",
+        "icon": "heart",
+        "pages": [
+          "support-project/lotus"
         ]
       }
     ],
@@ -48,7 +52,7 @@
           "icon": "discord"
         },
         {
-          "anchor": "Youtube",
+          "anchor": "YouTube",
           "href": "https://www.youtube.com/@LotusNetwork-y9h",
           "icon": "youtube"
         },
