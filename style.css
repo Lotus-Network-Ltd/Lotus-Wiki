@@ -6,7 +6,6 @@
 }
 
 #navbar .nav-logo svg {
-  height: 60px; /* Увеличиваем высоту логотипа */
-  width: auto; /* Сохраняем пропорции */
-  max-height: 70px; /* Максимальная высота */
+  height: 60px !important;
+  width: auto !important;
 }
