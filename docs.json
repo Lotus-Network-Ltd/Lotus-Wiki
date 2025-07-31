@@ -59,8 +59,8 @@
     }
   },
   "logo": {
-    "light": "/images-wiki/light.svg",
-    "dark": "/images-wiki/dark.svg"
+    "light": "/images-wiki/light.png",
+    "dark": "/images-wiki/dark.png"
   },
   "navbar": {
     "links": [
