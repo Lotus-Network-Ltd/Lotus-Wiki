@@ -1,0 +1,12 @@
+#navbar {
+  height: 80px;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+/* Попробуйте эти варианты */
+.nav-logo img {
+  height: 60px !important;
+  width: auto !important;
+}
