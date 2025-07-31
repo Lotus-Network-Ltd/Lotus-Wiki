@@ -1,4 +1,12 @@
 #navbar {
-  height: 80px; /* Ваша желаемая высота */
+  height: 80px;
   min-height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+#navbar .nav-logo svg {
+  height: 60px; /* Увеличиваем высоту логотипа */
+  width: auto; /* Сохраняем пропорции */
+  max-height: 70px; /* Максимальная высота */
 }
