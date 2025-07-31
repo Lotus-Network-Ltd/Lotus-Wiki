@@ -1,12 +1,17 @@
-#navbar {
+html #navbar {
   height: 80px;
   min-height: 80px;
   display: flex;
   align-items: center;
 }
 
-/* Попробуйте эти варианты */
-.nav-logo img {
+html #navbar .nav-logo img {
+  height: 60px !important;
+  width: auto !important;
+  max-height: none !important;
+}
+
+html #navbar .nav-logo svg {
   height: 60px !important;
   width: auto !important;
 }
