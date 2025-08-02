@@ -84,18 +84,3 @@
     }
   }
 }
-{
-  "footer": {
-    "links": [
-      {
-        "header": "Shop",
-        "items": [
-          {
-            "label": "Visit our store",
-            "href": "https://yourshop.com"
-          }
-        ]
-      }
-    ]
-  }
-}
