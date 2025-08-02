@@ -42,7 +42,7 @@
       "anchors": [
         {
           "anchor": "Discord",
-          "href": "https://discord.gg/wFUzrZgAeu",
+          "href": "https://discord.gg/YCJ9wweXKv",
           "icon": "discord"
         },
         {
@@ -77,10 +77,9 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/wFUzrZgAeu",
+      "discord": "https://discord.gg/YCJ9wweXKv",
       "youtube": "https://www.youtube.com/@LotusNetwork-y9h",
-      "telegram": "https://t.me/LotusMC",
-      "facebook": "https://shop.lotus-land.net/"
+      "telegram": "https://t.me/LotusMC"
     }
   }
 }
