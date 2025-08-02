@@ -79,7 +79,23 @@
     "socials": {
       "discord": "https://discord.gg/wFUzrZgAeu",
       "youtube": "https://www.youtube.com/@LotusNetwork-y9h",
-      "telegram": "https://t.me/LotusMC"
+      "telegram": "https://t.me/LotusMC",
+      "facebook": "https://shop.lotus-land.net/"
     }
+  }
+}
+{
+  "footer": {
+    "links": [
+      {
+        "header": "Shop",
+        "items": [
+          {
+            "label": "Visit our store",
+            "href": "https://yourshop.com"
+          }
+        ]
+      }
+    ]
   }
 }
