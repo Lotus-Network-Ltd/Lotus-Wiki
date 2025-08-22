@@ -34,7 +34,8 @@
         "group": "Поддержка проекта",
         "icon": "heart",
         "pages": [
-          "support-project/lotus"
+          "support-project/lotus",
+          "support-project/particles"
         ]
       }
     ],
