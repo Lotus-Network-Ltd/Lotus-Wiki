@@ -53,11 +53,6 @@
           "anchor": "YouTube",
           "href": "https://www.youtube.com/@LotusNetwork-y9h",
           "icon": "youtube"
-        },
-        {
-          "anchor": "Telegram",
-          "href": "https://t.me/LotusMC",
-          "icon": "telegram"
         }
       ]
     }
