@@ -7,7 +7,10 @@
     "light": "#ed95a0",
     "dark": "#ed95a0"
   },
-  "favicon": "images-wiki/favicon-dark.png",
+  "favicon": {
+    "light": "/images/logo(безподложкиибезсвечения).png",
+    "dark": "/images/logo(безподложкиибезсвечения).png"
+  },
   "navigation": {
     "groups": [
       {
@@ -67,7 +70,7 @@
     "links": [
       {
         "label": "Поддержка",
-        "href": "mailto:help.lotus.network@gmail.com"
+        "href": "mailto:support@lotus-land.net"
       }
     ],
     "primary": {
@@ -79,8 +82,7 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/YCJ9wweXKv",
-      "youtube": "https://www.youtube.com/@LotusNetwork-y9h",
-      "telegram": "https://t.me/LotusMC"
+      "youtube": "https://www.youtube.com/@LotusNetwork-y9h"
     }
   }
 }
