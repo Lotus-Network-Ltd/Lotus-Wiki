@@ -82,7 +82,7 @@
     }
   },
   "banner": {
-    "content": "СКОРО ЗАПУСК!",
+    "content": "🌠 Когда мир рушится — рождается новый",
     "dismissible": true
   },
   "icons": {
@@ -93,7 +93,7 @@
     "strict": true
   },
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
   },
   "thumbnails": {
     "appearance": "dark"
