@@ -83,7 +83,7 @@
   },
   "banner": {
     "content": "🌠 Когда мир рушится — рождается новый",
-    "dismissible": true
+    "dismissible": false
   },
   "icons": {
     "library": "fontawesome"
@@ -103,6 +103,5 @@
   },
   "interaction": {
     "drilldown": true
-  },
-  "description": "123123"
+  }
 }
