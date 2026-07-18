@@ -79,21 +79,11 @@
     "socials": {
       "discord": "https://discord.gg/YCJ9wweXKv",
       "youtube": "https://www.youtube.com/@LotusNetwork-y9h"
-    },
-    "links": [
-      {
-        "header": "123123",
-        "items": [
-          {
-            "label": "123123",
-            "href": "https://discord.gg/YCJ9wweXKv"
-          }
-        ]
-      }
-    ]
+    }
   },
   "banner": {
-    "content": "СКОРО ЗАПУСК!"
+    "content": "СКОРО ЗАПУСК!",
+    "dismissible": true
   },
   "icons": {
     "library": "fontawesome"
@@ -103,6 +93,15 @@
     "strict": true
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "grid"
+  },
+  "thumbnails": {
+    "appearance": "dark"
+  },
+  "styling": {
+    "codeblocks": "dark"
+  },
+  "interaction": {
+    "drilldown": true
   }
 }
