@@ -35,7 +35,7 @@
       },
       {
         "group": "Поддержка проекта",
-        "icon": "heart",
+        "icon": "coins",
         "pages": [
           "support-project/lotus",
           "support-project/particles"
@@ -93,7 +93,7 @@
     "strict": true
   },
   "background": {
-    "decoration": "windows"
+    "decoration": "grid"
   },
   "thumbnails": {
     "appearance": "dark"
@@ -103,5 +103,6 @@
   },
   "interaction": {
     "drilldown": true
-  }
+  },
+  "description": "123123"
 }
