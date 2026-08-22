@@ -67,6 +67,10 @@
       {
         "label": "Поддержка",
         "href": "mailto:support@lotus-land.net"
+      },
+      {
+        "href": "https://shop.lotus-land.net/",
+        "label": "Магазин"
       }
     ],
     "primary": {
