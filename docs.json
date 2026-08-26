@@ -57,7 +57,7 @@
     }
   },
   "logo": {
-    "light": "/images-wiki/light.png",
+    "light": "/images/wikilogo.png",
     "dark": "/images/wikilogo.png",
     "href": "https://wiki.lotus-land.net"
   },
