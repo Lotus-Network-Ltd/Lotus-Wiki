@@ -41,7 +41,7 @@
         "icon": "book-spells",
         "pages": [
           "info/about",
-          "info/functions",
+          "info/server-functions",
           "info/lotus-enhanced",
           "info/resourcepack",
           "info/block"
