@@ -26,9 +26,9 @@
         }
       ]
     },
-    "dropdowns": [
+    "groups": [
       {
-        "dropdown": "Начало Вашей истории",
+        "group": "Начало Вашей истории",
         "icon": "book-open",
         "pages": [
           "start/how",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "dropdown": "Информация",
+        "group": "Информация",
         "icon": "info",
         "pages": [
           "info/about",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "dropdown": "Поддержка проекта",
+        "group": "Поддержка проекта",
         "icon": "coins",
         "pages": [
           "support-project/lotus"
