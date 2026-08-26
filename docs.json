@@ -64,7 +64,8 @@
         "pages": [
           "media-kit",
           "privacy-policy",
-          "contacts"
+          "contacts",
+          "untitled-page"
         ],
         "icon": "gear"
       }
