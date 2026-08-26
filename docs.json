@@ -58,6 +58,10 @@
         "pages": [
           "support-project/lotus"
         ]
+      },
+      {
+        "group": "ПРОЧЕЕ",
+        "pages": []
       }
     ]
   },
