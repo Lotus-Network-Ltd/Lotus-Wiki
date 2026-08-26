@@ -62,10 +62,10 @@
       {
         "group": "ПРОЧЕЕ",
         "pages": [
+          "server-configs",
           "media-kit",
           "privacy-policy",
-          "contacts",
-          "untitled-page"
+          "contacts"
         ],
         "icon": "gear"
       }
