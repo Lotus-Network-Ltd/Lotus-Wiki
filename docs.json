@@ -46,18 +46,18 @@
         ]
       },
       {
-        "group": "Поддержка проекта",
-        "icon": "coins",
-        "pages": [
-          "support-project/lotus"
-        ]
-      },
-      {
         "group": "ʟᴏᴛᴜꜱ ᴇɴʜᴀɴᴄᴇᴅ",
         "pages": [
           "info/lotus-enhanced"
         ],
         "icon": "flower"
+      },
+      {
+        "group": "Поддержка проекта",
+        "icon": "coins",
+        "pages": [
+          "support-project/lotus"
+        ]
       }
     ]
   },
