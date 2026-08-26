@@ -12,35 +12,6 @@
     "dark": "/images/logo(безподложкиибезсвечения).png"
   },
   "navigation": {
-    "groups": [
-      {
-        "group": "Начало Вашей истории",
-        "icon": "book-open",
-        "pages": [
-          "start/how",
-          "start/rules",
-          "start/faq"
-        ]
-      },
-      {
-        "group": "Информация",
-        "icon": "info",
-        "pages": [
-          "info/about",
-          "info/functions",
-          "info/mods",
-          "info/resourcepack",
-          "info/block"
-        ]
-      },
-      {
-        "group": "Поддержка проекта",
-        "icon": "coins",
-        "pages": [
-          "support-project/lotus"
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -54,7 +25,36 @@
           "icon": "youtube"
         }
       ]
-    }
+    },
+    "dropdowns": [
+      {
+        "dropdown": "Начало Вашей истории",
+        "icon": "book-open",
+        "pages": [
+          "start/how",
+          "start/rules",
+          "start/faq"
+        ]
+      },
+      {
+        "dropdown": "Информация",
+        "icon": "info",
+        "pages": [
+          "info/about",
+          "info/functions",
+          "info/mods",
+          "info/resourcepack",
+          "info/block"
+        ]
+      },
+      {
+        "dropdown": "Поддержка проекта",
+        "icon": "coins",
+        "pages": [
+          "support-project/lotus"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/images/wikilogo.png",
