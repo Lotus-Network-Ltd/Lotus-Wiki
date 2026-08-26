@@ -37,8 +37,7 @@
         "group": "Поддержка проекта",
         "icon": "coins",
         "pages": [
-          "support-project/lotus",
-          "support-project/particles"
+          "support-project/lotus"
         ]
       }
     ],
