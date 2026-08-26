@@ -28,7 +28,7 @@
     },
     "groups": [
       {
-        "group": "Начало Вашей истории",
+        "group": "НАЧАЛО ВАШЕЙ ИСТОРИИ",
         "icon": "stars",
         "pages": [
           "start/how-to-play",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "group": "Информация",
+        "group": "ИНФОРМАЦИЯ",
         "icon": "book-spells",
         "pages": [
           "info/about",
@@ -46,14 +46,14 @@
         ]
       },
       {
-        "group": "ʟᴏᴛᴜꜱ ᴇɴʜᴀɴᴄᴇᴅ",
+        "group": "LOTUS ENHANCED",
         "pages": [
           "info/lotus-enhanced"
         ],
         "icon": "flower"
       },
       {
-        "group": "Поддержка проекта",
+        "group": "ПОДДЕРЖКА ПРОЕКТА",
         "icon": "coins",
         "pages": [
           "support-project/lotus"
