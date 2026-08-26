@@ -42,7 +42,6 @@
         "pages": [
           "info/about",
           "info/server-functions",
-          "info/lotus-enhanced",
           "info/block"
         ]
       },
@@ -51,6 +50,12 @@
         "icon": "coins",
         "pages": [
           "support-project/lotus"
+        ]
+      },
+      {
+        "group": "ʟᴏᴛᴜꜱ ᴇɴʜᴀɴᴄᴇᴅ",
+        "pages": [
+          "info/lotus-enhanced"
         ]
       }
     ]
