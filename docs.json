@@ -62,7 +62,9 @@
       {
         "group": "ПРОЧЕЕ",
         "pages": [
-          "media-kit"
+          "media-kit",
+          "privacy-policy",
+          "untitled-page"
         ],
         "icon": "gear"
       }
