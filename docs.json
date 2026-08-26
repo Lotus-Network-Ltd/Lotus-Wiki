@@ -61,7 +61,10 @@
       },
       {
         "group": "ПРОЧЕЕ",
-        "pages": []
+        "pages": [
+          "media-kit"
+        ],
+        "icon": "gear"
       }
     ]
   },
