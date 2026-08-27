@@ -40,6 +40,7 @@
         "pages": [
           "info/about",
           "info/server-functions",
+          "info/lotus-enhanced",
           "info/block"
         ]
       },
@@ -53,7 +54,6 @@
         "group": "ПРОЧЕЕ",
         "pages": [
           "server-configs",
-          "info/lotus-enhanced",
           "media-kit",
           "privacy-policy"
         ]
