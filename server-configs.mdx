@@ -39,15 +39,18 @@ simulation-distance: 6
 <CodeGroup>
 
 ```yaml paper-global.yml nocopy
-allow-headless-pistons: true#
-allow-permanent-block-break-exploits: true#
-allow-piston-duplication: true#
-allow-unsafe-end-portal-teleportation: true#
-oversized-item-component-sanitizer: #
-dont-sanitize: 
-perform-username-validation: false#
-skip-tripwire-hook-placement-validation: true#
-update-equipment-on-player-actions: false# 
+allow-headless-pistons: true
+allow-permanent-block-break-exploits: true
+allow-piston-duplication: true
+allow-unsafe-end-portal-teleportation: true
+oversized-item-component-sanitizer:
+dont-sanitize:
+ - minecraft:container
+ - minecraft:charged_projectiles
+ - minecraft:bundle_contents
+perform-username-validation: false
+skip-tripwire-hook-placement-validation: true
+update-equipment-on-player-actions: false
 ```
 
 </CodeGroup>
