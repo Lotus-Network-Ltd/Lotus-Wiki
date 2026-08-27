@@ -37,23 +37,20 @@
       },
       {
         "group": "ИНФОРМАЦИЯ",
-        "icon": "book-spells",
         "pages": [
           "info/about",
-          "info/server-functions"
+          "info/server-functions",
+          "info/block"
         ]
       },
       {
         "group": "LOTUS ENHANCED",
         "pages": [
-          "info/lotus-enhanced",
-          ""
-        ],
-        "icon": "flower"
+          "info/lotus-enhanced"
+        ]
       },
       {
         "group": "ПОДДЕРЖКА ПРОЕКТА",
-        "icon": "coins",
         "pages": [
           "support-project/lotus"
         ]
