@@ -29,7 +29,6 @@
     "groups": [
       {
         "group": "НАЧАЛО ВАШЕЙ ИСТОРИИ",
-        "icon": "stars",
         "pages": [
           "start/how-to-play",
           "start/rules",
