@@ -40,14 +40,14 @@
         "icon": "book-spells",
         "pages": [
           "info/about",
-          "info/server-functions",
-          "info/block"
+          "info/server-functions"
         ]
       },
       {
         "group": "LOTUS ENHANCED",
         "pages": [
-          "info/lotus-enhanced"
+          "info/lotus-enhanced",
+          ""
         ],
         "icon": "flower"
       },
