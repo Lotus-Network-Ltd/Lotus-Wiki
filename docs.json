@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "WIKI",
   "colors": {
-    "primary": "#ed95a0",
-    "light": "#ed95a0",
-    "dark": "#ed95a0"
+    "primary": "#FF7E91",
+    "light": "#FF7E91",
+    "dark": "#FF7E91"
   },
   "favicon": {
     "light": "/images/logo(безподложкиибезсвечения).png",
